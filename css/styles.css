@@ -561,10 +561,10 @@ main {
   fill: #2e2f42;
 }
 .icon-close:hover {
-  fill: #fff;
+  fill: #ffffff;
 }
 .icon-close:focus {
-  fill: #fff;
+  fill: #ffffff;
 }
 
 input,
